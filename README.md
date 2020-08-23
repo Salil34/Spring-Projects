@@ -4,6 +4,6 @@ First Spring App: Basic output and autowire.
 
 First Web App: Baisc MVC implementation using Model-View 
 
-JPAWbApp: Uses JPA and H2
+JPAWebApp: Uses JPA and H2
 
 FirstRESTSpring-Boot: Implements REST APIs in spring boot
